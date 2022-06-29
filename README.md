@@ -2,5 +2,5 @@
 
 ```mermaid
 flowchart LR
-    service2 --> treasure_data
+    tmpB --> treasure_data
 ```
