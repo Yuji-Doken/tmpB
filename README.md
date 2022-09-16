@@ -2,5 +2,6 @@
 
 ```mermaid
 flowchart LR
-    tmpB --> treasure_data
+    Yuji-Doken/tmpB[tmpB]
+    Yuji-Doken/tmpB --> treasure_data
 ```
